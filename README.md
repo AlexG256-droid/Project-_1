@@ -1,4 +1,4 @@
-Author: Alexander Gutting
+Author: Alexander Gutting\n
 Class Link: *provide link after project is finished*
 Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format.
 Screenshot: *provide screenshot after project is finished*
