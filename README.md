@@ -4,7 +4,8 @@ Class Link: *provide link after project is finished*
 
 Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format.
 
-Screenshot: *provide screenshot after project is finished*
+Screenshot: <img width="697" height="407" alt="HTML vs CSS vs JS" src="https://github.com/user-attachments/assets/dc25dfdf-14c3-4316-9c02-3ca73934fd67" />
+
 
 Instructions to build: 
 
