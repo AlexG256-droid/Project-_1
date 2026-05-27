@@ -12,7 +12,7 @@ Screenshot:
 
 
 
-Instructions to use: [*provide a YouTube link after video is uploaded*](https://www.youtube.com/watch?v=DKSOgzNJkN4)
+Instructions to use: https://www.youtube.com/watch?v=DKSOgzNJkN4
 
 Link to Google Slides: https://docs.google.com/presentation/d/1iag4CglCBIFffj4sLeMZ3hWxs4agzlFsfXFyhxIxrfo/edit?slide=id.p#slide=id.p
 
