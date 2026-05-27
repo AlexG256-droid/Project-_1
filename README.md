@@ -2,7 +2,7 @@ Author: Alexander Gutting
 
 Class Link: *provide link after project is finished*
 
-Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format.
+Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format. My project was made using HTML, CSS, and JavaScript (ES6+) in VSCode. The project was formatted with the use of Prettier and validated with the use of Validator W3.
 
 Screenshot:
 
