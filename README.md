@@ -4,7 +4,8 @@ Class Link: *provide link after project is finished*
 
 Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format.
 
-Screenshot: <img width="640" height="716" alt="Screenshot 2026-05-26 at 9 45 48 PM" src="https://github.com/user-attachments/assets/142b3292-7237-4d87-9631-a94f3395886f" />
+Screenshot:
+<img width="640" height="716" alt="Screenshot 2026-05-26 at 9 45 48 PM" src="https://github.com/user-attachments/assets/142b3292-7237-4d87-9631-a94f3395886f" />
 
 Instructions to build: *provide a YouTube link after video is uploaded*
 
