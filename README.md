@@ -8,7 +8,7 @@ Project Objective: To showcase some data science/data analytics-related projects
 
 Screenshot:
 
-<img width="640" height="716" alt="Screenshot 2026-05-26 at 9 45 48 PM" src="https://github.com/user-attachments/assets/142b3292-7237-4d87-9631-a94f3395886f" />
+<img width="447" height="500" alt="Screenshot 2026-05-26 at 9 45 48 PM" src="https://github.com/user-attachments/assets/142b3292-7237-4d87-9631-a94f3395886f" />
 
 
 
