@@ -1,0 +1,95 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 20px 20px 20px 20px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background: linear-gradient(to bottom, #e2eeed, #b9d3d9);
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif, Roboto, Helvetica, sans-serif;
+    line-height: 1.2;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* Text Styles */
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 36px;
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px 0px 20px 0px;
+    transform:translate(30px, 20px);
+}
+
+h3 {
+    color: black;
+    font-size: 24px;
+    padding: 10px 0px 0px 0px;
+}
+
+h4 {
+    color: black;
+    font-size: 18px;
+    padding: 20px 0px 20px 0px;
+}
+
+p {
+    transform:translate(0px, 5px);
+}
+
+p,
+li {
+    color: black;
+    font-size: 16px;
+    padding: 20px 20px 40px 0px;
+}
+
+
+/* Image Styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 20px 0;
+}
+
+
+/* Class Styles */
+.project {
+    border: 4px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+    max-width: 500px;
+    margin: 0 auto 20px;
+    transform:scale(1.25);
+    transform:translate(-500px, 50px);
+}
+
+.contact {
+    padding: 30px 40px 40px 0px;
+    transform:translate(-425px, 50px);
+}
