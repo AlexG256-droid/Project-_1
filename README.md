@@ -1,6 +1,8 @@
 Author: Alexander Gutting
 
-Class Link: *provide link after project is finished*
+Website Link: *provide link after project is finished*
+
+Slides Link: https://docs.google.com/presentation/d/1iag4CglCBIFffj4sLeMZ3hWxs4agzlFsfXFyhxIxrfo/edit?slide=id.p#slide=id.p
 
 Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format. My project was made using HTML5, CSS3, and JavaScript (ES6+) in VSCode.
 
