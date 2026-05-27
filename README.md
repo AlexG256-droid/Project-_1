@@ -1,6 +1,6 @@
 Author: Alexander Gutting
 
-Website Link: *provide link after project is finished*
+Website Link: https://alexg256-droid.github.io/Project-_1/index.html
 
 Slides Link: https://docs.google.com/presentation/d/1iag4CglCBIFffj4sLeMZ3hWxs4agzlFsfXFyhxIxrfo/edit?slide=id.p#slide=id.p
 
@@ -12,7 +12,7 @@ Screenshot:
 
 
 
-Instructions to build: *provide a YouTube link after video is uploaded*
+Instructions to use: [*provide a YouTube link after video is uploaded*](https://www.youtube.com/watch?v=DKSOgzNJkN4)
 
 Link to Google Slides: https://docs.google.com/presentation/d/1iag4CglCBIFffj4sLeMZ3hWxs4agzlFsfXFyhxIxrfo/edit?slide=id.p#slide=id.p
 
