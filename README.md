@@ -6,9 +6,7 @@ Project Objective: To showcase some data science/data analytics-related projects
 
 Screenshot:
 
-<img width="446" height="499" alt="Screenshot 2026-05-26 at 9 45 48 PM" src="https://github.com/user-attachments/assets/142b3292-7237-4d87-9631-a94f3395886f" />
-
-
+https://alexg256-droid.github.io/Project-_1/Images/Stock_Data.png
 
 Instructions to use: https://www.youtube.com/watch?v=DKSOgzNJkN4
 
