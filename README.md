@@ -4,9 +4,7 @@ Website Link: https://alexg256-droid.github.io/Project-_1/index.html
 
 Project Objective: To showcase some data science/data analytics-related projects I created during my time at Northeastern in a professional-looking portfolio format. My project was made using HTML5, CSS3, and JavaScript (ES6+) in VSCode. PLEASE IGNORE COPIES FOLDER
 
-Screenshot:
-
-https://alexg256-droid.github.io/Project-_1/Images/Stock_Data.png
+Screenshot: https://alexg256-droid.github.io/Project-_1/Images/Stock_Data.png
 
 Instructions to use: https://www.youtube.com/watch?v=DKSOgzNJkN4
 
